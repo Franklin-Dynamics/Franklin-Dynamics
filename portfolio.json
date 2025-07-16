@@ -1,9 +1,19 @@
 [
   {
     "languages": "C++",
-    "updated_at": "2025-07-16T21:12:47Z",
+    "updated_at": "2025-07-16T21:41:21Z",
     "description": "Redacted",
-    "topics": [],
+    "topics": [
+      "ai",
+      "artificial-intelligence",
+      "intent-classification",
+      "large-language-model",
+      "smart",
+      "smart-speaker",
+      "speaker",
+      "speech-recognition",
+      "text-to-speech"
+    ],
     "status": "Ongoing"
   },
   {
