@@ -1,7 +1,8 @@
 [
   {
+    "name": "Euri",
     "languages": "C++",
-    "updated_at": "2025-07-16T21:41:21Z",
+    "updated_at": "2025-07-16",
     "description": "Redacted",
     "topics": [
       "ai",
@@ -17,15 +18,17 @@
     "status": "Ongoing"
   },
   {
-    "languages": null,
-    "updated_at": "2025-07-16T21:13:32Z",
+    "name": "Euri-Lite",
+    "languages": "Mixed",
+    "updated_at": "2025-07-16",
     "description": "Redacted",
     "topics": [],
     "status": "Ongoing"
   },
   {
-    "languages": null,
-    "updated_at": "2025-07-16T21:13:12Z",
+    "name": "Euri-Server",
+    "languages": "Mixed",
+    "updated_at": "2025-07-16",
     "description": "Redacted",
     "topics": [],
     "status": "Ongoing"
