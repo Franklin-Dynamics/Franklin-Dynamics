@@ -1,4 +1,1 @@
 - **Euri** - Language: C++, Last Updated: 2025-07-16, Status: Ongoing, Topics: ai, artificial-intelligence, intent-classification, large-language-model, smart, smart-speaker, speaker, speech-recognition, text-to-speech
-- **Euri-Lite** - Language: Mixed, Last Updated: 2025-07-16, Status: Ongoing, Topics: N/A
-- **Euri-Server** - Language: Mixed, Last Updated: 2025-07-16, Status: Ongoing, Topics: N/A
-- **Brian** - Language: C++, Last Updated: 2025-07-17, Status: Ongoing, Topics: N/A
