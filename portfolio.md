@@ -1,1 +1,1 @@
-- **Euri** - Language: C++, Last Updated: 2025-07-16, Status: Ongoing, Topics: ai, artificial-intelligence, intent-classification, large-language-model, smart, smart-speaker, speaker, speech-recognition, text-to-speech
+- **CONFIDENTIAL** - Language: C++, Last Updated: 2025-07-17, Status: Ongoing, Topics: ai, artificial-intelligence, confidential, intent-classification, large-language-model, smart, smart-speaker, speaker, speech-recognition, text-to-speech

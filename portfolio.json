@@ -1,12 +1,13 @@
 [
   {
-    "name": "Euri",
+    "name": "CONFIDENTIAL",
     "languages": "C++",
-    "updated_at": "2025-07-16",
+    "updated_at": "2025-07-17",
     "description": "Redacted",
     "topics": [
       "ai",
       "artificial-intelligence",
+      "confidential",
       "intent-classification",
       "large-language-model",
       "smart",
